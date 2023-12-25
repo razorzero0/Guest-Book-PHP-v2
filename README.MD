@@ -6,7 +6,7 @@ Aplikasi web Guest Book merupakan salah satu tugas dalam mata kuliah Pemrograman
 
 ## Installation
 
-git clone this repo and import sql file
+git clone this repo and import sql file to your mysql database
 
 
 
